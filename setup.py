@@ -39,5 +39,5 @@ setup(
         'yarl==1.4.2',
         'python-dotenv',
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.6.12',
 )
